@@ -7,6 +7,7 @@
 </template>
 
 <script>
+// no hace falta poner index js 
 import getArtist from './api'
 export default {
   name: "app",
